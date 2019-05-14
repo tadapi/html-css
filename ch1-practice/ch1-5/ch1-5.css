@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.main-item1 {
+	width: 100%;
+	height: 200px;
+	background-image: url(ch1-5_img/box1.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.main-item2 {
+	width: 100%;
+	height: 200px;
+	background-image: url(ch1-5_img/box2.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.main-item3 {
+	width: 100%;
+	height: 200px;
+	background-image: url(ch1-5_img/box3.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.main-item4 {
+	width: 100%;
+	height: 200px;
+	background-image: url(ch1-5_img/box4.jpg);
+	background-size: cover;
+	background-position: center;
+}
